@@ -1,0 +1,6 @@
+{
+  "name": "Libreta de Consumos",
+  "description": "Libreta digital diaria de consumos de empleados con hojas automáticas, registro rápido a una mano y cálculo semanal personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
